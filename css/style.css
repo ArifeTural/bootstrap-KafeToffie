@@ -216,15 +216,20 @@ section#about{
     color: azure;
     font-style: italic;
    }
+   textarea{
+    resize: none;
+    height: 100px !important;
+   }
 
    input::placeholder{
     color: white !important;
    }
 
 
-   .google-map{
-    filter: grayscale(100%) ;
-   }
+.google-maps{
+    filter: grayscale(100%);
+    border-radius: 20px;
+}
 
 
     
