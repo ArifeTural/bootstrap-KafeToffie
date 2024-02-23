@@ -231,5 +231,11 @@ section#about{
     border-radius: 20px;
 }
 
+/*! Footer */
+
+footer{
+    background-color: var(--secondary-color);
+}
+
 
     
