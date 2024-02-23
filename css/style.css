@@ -72,6 +72,11 @@ a{
    font-size: x-large;
 
 }
+
+.carousel-caption .btn:first-child:hover{
+    background-color: white !important ;
+    color: #266b69;
+}
 .hero{
     z-index: 3;
 }
