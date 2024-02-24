@@ -139,45 +139,23 @@ section#about{
      }
 
 
-     /*! PEOPLE */
+     /*! Ürünler */
+     section#urunler{
     
-     section#people{
-        background-color: var(--section-color) !important;
-        border: none;
+        background-color: var(--secondary-color) !important; 
      }
-     section#people .container{
-        background-color: var(--secondary-color);
-        
+     section#urunler button{
+        background-color: var(--secondary-color) !important;
+        margin-right: 1rem ;
+
+     }
+     section#urunler .container{
+        background-color: var(--primary-color) !important;
+
      }
 
-     section#people .card{
-        background-color: #aecfc7;
-        transition: all .5s;
-        overflow: hidden;
-     }
-
-     section#people .card:hover{
-        transform: scale(1.05);
-     }
-     section#people .card img{
-       transition: all 0.5s;
-     }
-
-     section#people .card img:hover{
-        transform: scale(1.05);
-     }
-
-     section#people i{
-        transition: all .5s;
-     }
-
-     section#people i:hover{
-        opacity: 0.5;
-     }
-
-     section .btn{
-        background-color: #266b69!important;
-     }
+    
+   
      /*!Menü */
 
      section#menu{
