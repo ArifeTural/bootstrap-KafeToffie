@@ -169,13 +169,16 @@ section#about{
 
      section#people i{
         transition: all .5s;
-        
-
      }
 
      section#people i:hover{
         opacity: 0.5;
      }
+
+     section .btn{
+        background-color: #266b69!important;
+     }
+     /*!Menü */
 
      section#menu{
     
@@ -241,6 +244,7 @@ section#about{
 footer{
     background-color: var(--secondary-color);
 }
+
 
 
     
